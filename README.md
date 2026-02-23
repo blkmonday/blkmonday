@@ -11,17 +11,17 @@
 
 ---
 
-## 🏫 About Me
+## About Me
 
-- 🎓 Computer Science student with a concentration in **Cybersecurity** at **Southern University and A&M College**, Baton Rouge, LA
-- 🔐 Passionate about **network security**, and **digital forensics**
-- 🌱 Currently learning: **penetration testing**, **secure software development**, and **cloud security**
-- 🤝 Open to collaborating on **cybersecurity research** and **open-source security tools**
-- 🎯 Goal: To contribute to a safer digital world, creating safe networks, and the mass informing of users 
+- Computer Science student with a concentration in **Cybersecurity** at **Southern University and A&M College**, Baton Rouge, LA
+- Passionate about **network security**, and **digital forensics**
+- Currently learning: **penetration testing**, **secure software development**, and **cloud security**
+- Open to collaborating on **cybersecurity research** and **open-source security tools**
+- Goal: To contribute to a safer digital world, creating safe networks, and the mass informing of users 
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -64,7 +64,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=blkmonday&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -77,15 +77,15 @@
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 <!-- Pin your best repos and describe them here -->
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| Password Breach & Strength Analyzer | Privacy-focused web application that checks passwords against 600M+ breached credentials using k-anonymity via the Have I Been Pwned API. Implements SHA-1 hashing, local hash comparison, and a custom password strength scoring engine to promote secure credential practices. | Python, Flask, Requests, HTML/CSS | In progress...
-| Automated DDoS Detection and Mitigation: A Virtual SOC Approach | Capstone project designing a lightweight intrusion detection and mitigation framework for resource-constrained environments. Simulates a Virtual SOC that monitors network traffic, detects anomalous patterns indicative of DDoS attacks, and automates response actions such as rate limiting and IP blocking. | Python, Scapy, Linux, Virtual Machines | In progress..
-| Intelligent Phishing Detection System Using Machine Learning | Machine learning-based phishing detection system leveraging NLP and feature engineering to classify phishing emails. Compares Random Forest, SVM, and Neural Network models to traditional rule-based detection methods to reduce false positives and improve zero-day detection. | Python, Scikit-learn, Pandas, NLP | In progress..
+| Password Breach & Strength Analyzer( In Progress...) | Privacy-focused web application that checks passwords against 600M+ breached credentials using k-anonymity via the Have I Been Pwned API. Implements SHA-1 hashing, local hash comparison, and a custom password strength scoring engine to promote secure credential practices. | Python, Flask, Requests, HTML/CSS |
+| Automated DDoS Detection and Mitigation: A Virtual SOC Approach(In Progress...) | Capstone project designing a lightweight intrusion detection and mitigation framework for resource-constrained environments. Simulates a Virtual SOC that monitors network traffic, detects anomalous patterns indicative of DDoS attacks, and automates response actions such as rate limiting and IP blocking. | Python, Scapy, Linux, Virtual Machines |
+| Intelligent Phishing Detection System Using Machine Learning(In Progress...) | Machine learning-based phishing detection system leveraging NLP and feature engineering to classify phishing emails. Compares Random Forest, SVM, and Neural Network models to traditional rule-based detection methods to reduce false positives and improve zero-day detection. | Python, Scikit-learn, Pandas, NLP |
 
 ---
 
@@ -96,4 +96,4 @@
 
 ---
 
-⭐ **Feel free to explore my repositories and connect with me!**
+ **Feel free to explore my repositories and connect with me!**
