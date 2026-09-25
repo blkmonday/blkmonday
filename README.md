@@ -82,7 +82,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | **[Building a Virtual HomeLab on macOS](https://github.com/blkmonday/Building-A-Virtual-HomeLab-on-MacOS)** | Step-by-step build for a self-contained security lab on macOS: Kali as attacker, Ubuntu as target and SIEM, on an isolated virtual network that never touches the host network. Covers setup, networking, lab exercises, and troubleshooting. | VMware Fusion, Kali, Ubuntu, Bash |
-| **[AI Phishing Detection](https://github.com/blkmonday/AI-Phishing-Detection)** | Feature engineering on a 39,000-email phishing corpus. Established email length and URL count as separating signals, and documented that urgency keywords *did not* hold as a predictor in this dataset. Classifier training is the next stage. | Python, Pandas, Matplotlib, Jupyter |
+| **[Phishing Email Detection: NLP vs. ML](https://github.com/blkmonday/AI-Phishing-Detection)** | IEEE research paper comparing Logistic Regression, Random Forest, and fine-tuned BERT on 39,154 labeled emails under identical preprocessing. All three hit 99% accuracy — BERT led by 13 errors out of 7,831 while costing 360× the training time, so traditional ML is the practical choice here. | Python, Scikit-learn, BERT, PyTorch, TF-IDF |
 | **[ClassConnect](https://github.com/blkmonday/ClassConnect)** | CS final project: campus navigation and schedule tool. Java HTTP server exposing login, registration, schedule, and alert endpoints, with a multi-page frontend. Ships a written security review of its own flaws, including an SSRF in the image proxy. | Java 21, Maven, Gson, JavaScript |
 | **[Cybersecurity Projects](https://github.com/blkmonday/Cybersecurity-projects)** | Lab notebook — CTF writeups, tool notes, certification study, and small scripts. | Varies |
 
@@ -92,7 +92,6 @@
 |---------|-------------|------|
 | Password Breach & Strength Analyzer | Privacy-focused web app checking passwords against 600M+ breached credentials using k-anonymity via the Have I Been Pwned API. SHA-1 hashing with local hash comparison, plus a custom strength scoring engine. | Python, Flask, Requests, HTML/CSS |
 | Automated DDoS Detection and Mitigation: A Virtual SOC Approach | Capstone: lightweight intrusion detection and mitigation for resource-constrained environments. A virtual SOC that monitors traffic, flags anomalous patterns, and automates rate limiting and IP blocking. | Python, Scapy, Linux, VMs |
-| Phishing Classifier | Extends the phishing analysis above into a trained model — comparing Random Forest, SVM, and a neural network against rule-based detection, optimizing for false negatives over raw accuracy. | Python, Scikit-learn, Pandas, NLP |
 
 ---
 
