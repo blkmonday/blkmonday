@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="(https://www.linkedin.com/in/jai-barber-6a5067249/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jai-barber-6a5067249/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:jai.barber@sus.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
+</p>
 
 ---
 
@@ -77,15 +77,22 @@
 
 ---
 
-##  Featured Projects
-
-<!-- Pin your best repos and describe them here -->
+## Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| Password Breach & Strength Analyzer( In Progress...) | Privacy-focused web application that checks passwords against 600M+ breached credentials using k-anonymity via the Have I Been Pwned API. Implements SHA-1 hashing, local hash comparison, and a custom password strength scoring engine to promote secure credential practices. | Python, Flask, Requests, HTML/CSS |
-| Automated DDoS Detection and Mitigation: A Virtual SOC Approach(In Progress...) | Capstone project designing a lightweight intrusion detection and mitigation framework for resource-constrained environments. Simulates a Virtual SOC that monitors network traffic, detects anomalous patterns indicative of DDoS attacks, and automates response actions such as rate limiting and IP blocking. | Python, Scapy, Linux, Virtual Machines |
-| Intelligent Phishing Detection System Using Machine Learning(In Progress...) | Machine learning-based phishing detection system leveraging NLP and feature engineering to classify phishing emails. Compares Random Forest, SVM, and Neural Network models to traditional rule-based detection methods to reduce false positives and improve zero-day detection. | Python, Scikit-learn, Pandas, NLP |
+| **[Building a Virtual HomeLab on macOS](https://github.com/blkmonday/Building-A-Virtual-HomeLab-on-MacOS)** | Step-by-step build for a self-contained security lab on macOS: Kali as attacker, Ubuntu as target and SIEM, on an isolated virtual network that never touches the host network. Covers setup, networking, lab exercises, and troubleshooting. | VMware Fusion, Kali, Ubuntu, Bash |
+| **[AI Phishing Detection](https://github.com/blkmonday/AI-Phishing-Detection)** | Feature engineering on a 39,000-email phishing corpus. Established email length and URL count as separating signals, and documented that urgency keywords *did not* hold as a predictor in this dataset. Classifier training is the next stage. | Python, Pandas, Matplotlib, Jupyter |
+| **[ClassConnect](https://github.com/blkmonday/ClassConnect)** | CS final project: campus navigation and schedule tool. Java HTTP server exposing login, registration, schedule, and alert endpoints, with a multi-page frontend. Ships a written security review of its own flaws, including an SSRF in the image proxy. | Java 21, Maven, Gson, JavaScript |
+| **[Cybersecurity Projects](https://github.com/blkmonday/Cybersecurity-projects)** | Lab notebook — CTF writeups, tool notes, certification study, and small scripts. | Varies |
+
+### In Progress
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| Password Breach & Strength Analyzer | Privacy-focused web app checking passwords against 600M+ breached credentials using k-anonymity via the Have I Been Pwned API. SHA-1 hashing with local hash comparison, plus a custom strength scoring engine. | Python, Flask, Requests, HTML/CSS |
+| Automated DDoS Detection and Mitigation: A Virtual SOC Approach | Capstone: lightweight intrusion detection and mitigation for resource-constrained environments. A virtual SOC that monitors traffic, flags anomalous patterns, and automates rate limiting and IP blocking. | Python, Scapy, Linux, VMs |
+| Phishing Classifier | Extends the phishing analysis above into a trained model — comparing Random Forest, SVM, and a neural network against rule-based detection, optimizing for false negatives over raw accuracy. | Python, Scikit-learn, Pandas, NLP |
 
 ---
 
