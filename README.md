@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jai-barber-6a5067249/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jai.barber@sus.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:jaibarber21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -84,7 +84,6 @@
 | **[Building a Virtual HomeLab on macOS](https://github.com/blkmonday/Building-A-Virtual-HomeLab-on-MacOS)** | Step-by-step build for a self-contained security lab on macOS: Kali as attacker, Ubuntu as target and SIEM, on an isolated virtual network that never touches the host network. Covers setup, networking, lab exercises, and troubleshooting. | VMware Fusion, Kali, Ubuntu, Bash |
 | **[Phishing Email Detection: NLP vs. ML](https://github.com/blkmonday/AI-Phishing-Detection)** | IEEE research paper comparing Logistic Regression, Random Forest, and fine-tuned BERT on 39,154 labeled emails under identical preprocessing. All three hit 99% accuracy — BERT led by 13 errors out of 7,831 while costing 360× the training time, so traditional ML is the practical choice here. | Python, Scikit-learn, BERT, PyTorch, TF-IDF |
 | **[ClassConnect](https://github.com/blkmonday/ClassConnect)** | CS final project: campus navigation and schedule tool. Java HTTP server exposing login, registration, schedule, and alert endpoints, with a multi-page frontend. Ships a written security review of its own flaws, including an SSRF in the image proxy. | Java 21, Maven, Gson, JavaScript |
-| **[Cybersecurity Projects](https://github.com/blkmonday/Cybersecurity-projects)** | Lab notebook — CTF writeups, tool notes, certification study, and small scripts. | Varies |
 
 ### In Progress
 
