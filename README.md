@@ -92,13 +92,6 @@
 | Password Breach & Strength Analyzer | Privacy-focused web app checking passwords against 600M+ breached credentials using k-anonymity via the Have I Been Pwned API. SHA-1 hashing with local hash comparison, plus a custom strength scoring engine. | Python, Flask, Requests, HTML/CSS |
 | Automated DDoS Detection and Mitigation: A Virtual SOC Approach | Capstone: lightweight intrusion detection and mitigation for resource-constrained environments. A virtual SOC that monitors traffic, flags anomalous patterns, and automates rate limiting and IP blocking. | Python, Scapy, Linux, VMs |
 
----
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=blkmonday&color=blue&style=for-the-badge" alt="Profile Views" />
-</p>
-
----
 
  **Feel free to explore my repositories and connect with me!**
